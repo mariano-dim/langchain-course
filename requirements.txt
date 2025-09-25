@@ -1,3 +1,7 @@
 langchain
 openai
-google-search-tools
+# google-search-tools
+google-search-results==2.4.2
+langchain_community
+langchain-openai
+numexpr
