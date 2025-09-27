@@ -3,3 +3,7 @@ google-search-results
 langchain_community
 langchain-openai
 numexpr
+langgraph
+pydantic
+requests
+numpy
